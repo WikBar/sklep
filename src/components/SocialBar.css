@@ -1,3 +1,5 @@
 .socialBar{
+    float:right;
     display:flex;
+    background-color: black;
 }
