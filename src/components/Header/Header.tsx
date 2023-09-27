@@ -1,9 +1,9 @@
 import React from "react";
 
-import '../css/Header.css';
-import logo from '../images/logo.png'
-import {SocialBar} from "../components/SocialBar";
-import "../css/Header.css"
+import '../../assets/styles/Header.css';
+import logo from '../../assets/images/logo.png'
+import {SocialBar} from "../Socials/SocialBar";
+import "../../assets/styles/Header.css"
 
 function Header(){
     return (

@@ -1,9 +1,9 @@
 import {SocialLogo} from "./SocialLogo";
-import FacebookLogo from "./../images/facebook-icon.png";
-import TwitterLogo from "./../images/twitter-icon.png";
-import LinkedinLogo from "./../images/linkedin-icon.png";
-import InstagramLogo from "./../images/instagram-icon.png";
-import "./SocialBar.css";
+import FacebookLogo from "../../assets/icons/facebook-icon.png";
+import TwitterLogo from "../../assets/icons/twitter-icon.png";
+import LinkedinLogo from "../../assets/icons/linkedin-icon.png";
+import InstagramLogo from "../../assets/icons/instagram-icon.png";
+import "../../assets/styles/SocialBar.css";
 
 
 export function SocialBar(){
